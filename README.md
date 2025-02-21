@@ -13,6 +13,20 @@ TalkTown is a real-time chat application designed for seamless and instant commu
 - 🔹 **Emoji and media sharing** (optional)
 
 
+---
+
+## 📸 Demo Screenshots  
+Here are some previews of TalkTown in action:  
+
+
+### 🔹 Home Page  
+![Login Screenshot](./screenshots/login.png)  
+
+### 🔹 Chat Interface  
+![Chat Screenshot](./screenshots/chat.png)    
+
+----
+
 ## 📌 Usage
 - Start a new chat with a friend or create a group.
 - Enjoy real-time messaging with a smooth experience.
