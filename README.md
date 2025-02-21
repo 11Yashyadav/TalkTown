@@ -1,6 +1,5 @@
 # TalkTown - Real-Time Chat Application
 
-![TalkTown Logo](https://your-logo-url.com)
 
 ## 🚀 Introduction
 TalkTown is a real-time chat application designed for seamless and instant communication. It provides a modern chat experience with features like private and group messaging, real-time updates, and responsive UI.
